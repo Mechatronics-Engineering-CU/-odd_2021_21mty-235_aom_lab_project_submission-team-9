@@ -1,4 +1,4 @@
-### Golden Ratio (Phi) Corelation with your Face using MATLAB
+### Golden Ratio (Phi) Correlation with your Face using MATLAB
 1Abhishek Sharma 2Bhajneet Singh Bedi
 1Research Scholar, Dept of Mechatronics Engineering, Chandigarh University, Chandigarh, India
 2Research Scholar, Dept of Mechatronics Engineering, Chandigarh University, Chandigarh, India
